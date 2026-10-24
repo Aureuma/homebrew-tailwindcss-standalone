@@ -8,12 +8,6 @@ Homebrew tap for TailwindCSS standalone binaries - no Node.js required!
 brew install aureuma/tailwindcss-standalone/tailwindcss-standalone
 ```
 
-Or install via URL (which will not receive updates):
-
-```bash
-brew install https://raw.githubusercontent.com/Aureuma/homebrew-tailwindcss-standalone/main/Formula/tailwindcss-standalone.rb
-```
-
 ## Usage
 
 After installation, you can use TailwindCSS directly:
